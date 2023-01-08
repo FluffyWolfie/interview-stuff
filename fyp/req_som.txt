@@ -1,0 +1,9 @@
+matplotlib
+numpy
+nengo
+pandas
+tensorflow == 1.15.0
+pathlib
+logging
+sklearn
+scipy

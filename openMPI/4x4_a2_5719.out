@@ -1,0 +1,475 @@
+==================================================================
+Iteration: 1
+Logged time: Tue Oct 18 17:52:12 2022
+Alert reported time: Tue Oct 18 17:52:12 2022
+Alert type: Inconclusive
+
+Reporting Node                Seismic Coord                           Magnitude                                                   
+4(1, 0)                       (-15.84,161.22)                          4.99                                                        
+
+Adjacent Nodes                Seismic Coord       Diff(Coord.km)      Magnitude           Diff(Mag)           
+5(1, 1)                       (-14.44,161.12)      155.21              3.68                1.31      
+0(0, 0)                       (-15.61,160.62)      69.01               4.52                0.47      
+8(2, 0)                       (-15.17,162.72)      177.08              5.08                0.10      
+
+This is an inconclusive alert. Thus, no matched entries with balloon seismic.
+
+Communication Time (seconds): 0.047892801
+Total Messages send between reporting node and base station: 4
+Number of adjacent matches to reporting node: 2
+Coordinate difference threshold (km): 180
+Magnitude difference threshold: 0.50
+Earthquake magnitude threshold: 2.50
+==================================================================
+==================================================================
+
+==================================================================
+Iteration: 1
+Logged time: Tue Oct 18 17:52:12 2022
+Alert reported time: Tue Oct 18 17:52:12 2022
+Alert type: Conclusive
+
+Reporting Node                Seismic Coord                           Magnitude                                                   
+9(2, 1)                       (-14.67,162.62)                          3.97                                                        
+
+Adjacent Nodes                Seismic Coord       Diff(Coord.km)      Magnitude           Diff(Mag)           
+8(2, 0)                       (-15.17,162.72)      55.77               5.08                1.12      
+10(2, 2)                       (-13.28,162.52)      155.26              2.96                1.01      
+5(1, 1)                       (-14.44,161.12)      163.36              3.68                0.29      
+13(3, 1)                       (-14.90,163.22)      69.28               3.88                0.08      
+
+Balloon seismic reporting time: 2022-10-18 (H) 17, (M) 52, (S) 12
+Balloon seismic reporting Coord: (-14.70,162.10)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 55.37
+Balloon seismic reporting Magnitude: 3.70
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 0.26
+
+Communication Time (seconds): 0.0413689411
+Total Messages send between reporting node and base station: 4
+Number of adjacent matches to reporting node: 2
+Coordinate difference threshold (km): 180
+Magnitude difference threshold: 0.50
+Earthquake magnitude threshold: 2.50
+==================================================================
+==================================================================
+
+==================================================================
+Iteration: 3
+Logged time: Tue Oct 18 17:52:14 2022
+Alert reported time: Tue Oct 18 17:52:14 2022
+Alert type: Inconclusive
+
+Reporting Node                Seismic Coord                           Magnitude                                                   
+6(1, 2)                       (-13.86,161.51)                          2.89                                                        
+
+Adjacent Nodes                Seismic Coord       Diff(Coord.km)      Magnitude           Diff(Mag)           
+5(1, 1)                       (-14.75,161.15)      106.30              1.63                1.26      
+7(1, 3)                       (-12.96,161.86)      106.35              2.79                0.10      
+2(0, 2)                       (-13.42,160.89)      82.67               3.11                0.22      
+10(2, 2)                       (-13.39,162.13)      84.97               2.79                0.09      
+
+This is an inconclusive alert. Thus, no matched entries with balloon seismic.
+
+Communication Time (seconds): 0.041977314
+Total Messages send between reporting node and base station: 4
+Number of adjacent matches to reporting node: 3
+Coordinate difference threshold (km): 180
+Magnitude difference threshold: 0.50
+Earthquake magnitude threshold: 2.50
+==================================================================
+==================================================================
+
+==================================================================
+Iteration: 7
+Logged time: Tue Oct 18 17:52:18 2022
+Alert reported time: Tue Oct 18 17:52:18 2022
+Alert type: Inconclusive
+
+Reporting Node                Seismic Coord                           Magnitude                                                   
+3(0, 3)                       (-12.94,160.39)                          3.03                                                        
+
+Adjacent Nodes                Seismic Coord       Diff(Coord.km)      Magnitude           Diff(Mag)           
+2(0, 2)                       (-13.73,160.02)      96.44               3.02                0.00      
+7(1, 3)                       (-12.88,161.06)      72.73               3.20                0.18      
+
+This is an inconclusive alert. Thus, no matched entries with balloon seismic.
+
+Communication Time (seconds): 0.048585419
+Total Messages send between reporting node and base station: 4
+Number of adjacent matches to reporting node: 2
+Coordinate difference threshold (km): 180
+Magnitude difference threshold: 0.50
+Earthquake magnitude threshold: 2.50
+==================================================================
+==================================================================
+
+==================================================================
+Iteration: 19
+Logged time: Tue Oct 18 17:52:30 2022
+Alert reported time: Tue Oct 18 17:52:30 2022
+Alert type: Inconclusive
+
+Reporting Node                Seismic Coord                           Magnitude                                                   
+0(0, 0)                       (-15.61,160.22)                          6.03                                                        
+
+Adjacent Nodes                Seismic Coord       Diff(Coord.km)      Magnitude           Diff(Mag)           
+1(0, 1)                       (-14.23,160.62)      160.01              5.92                0.11      
+4(1, 0)                       (-15.87,161.03)      90.65               5.54                0.49      
+
+This is an inconclusive alert. Thus, no matched entries with balloon seismic.
+
+Communication Time (seconds): 0.051734856
+Total Messages send between reporting node and base station: 4
+Number of adjacent matches to reporting node: 2
+Coordinate difference threshold (km): 180
+Magnitude difference threshold: 0.50
+Earthquake magnitude threshold: 2.50
+==================================================================
+==================================================================
+
+==================================================================
+Iteration: 19
+Logged time: Tue Oct 18 17:52:30 2022
+Alert reported time: Tue Oct 18 17:52:30 2022
+Alert type: Conclusive
+
+Reporting Node                Seismic Coord                           Magnitude                                                   
+1(0, 1)                       (-14.23,160.62)                          5.92                                                        
+
+Adjacent Nodes                Seismic Coord       Diff(Coord.km)      Magnitude           Diff(Mag)           
+0(0, 0)                       (-15.61,160.22)      160.01              6.03                0.11      
+2(0, 2)                       (-13.74,160.12)      76.30               5.79                0.12      
+5(1, 1)                       (-14.48,161.43)      91.17               5.40                0.51      
+
+Balloon seismic reporting time: 2022-10-18 (H) 17, (M) 52, (S) 28
+Balloon seismic reporting Coord: (-13.43,161.16)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 106.15
+Balloon seismic reporting Magnitude: 5.54
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 0.37
+
+Communication Time (seconds): 0.042046333
+Total Messages send between reporting node and base station: 4
+Number of adjacent matches to reporting node: 2
+Coordinate difference threshold (km): 180
+Magnitude difference threshold: 0.50
+Earthquake magnitude threshold: 2.50
+==================================================================
+==================================================================
+
+==================================================================
+Iteration: 19
+Logged time: Tue Oct 18 17:52:30 2022
+Alert reported time: Tue Oct 18 17:52:30 2022
+Alert type: Conclusive
+
+Reporting Node                Seismic Coord                           Magnitude                                                   
+2(0, 2)                       (-13.74,160.12)                          5.79                                                        
+
+Adjacent Nodes                Seismic Coord       Diff(Coord.km)      Magnitude           Diff(Mag)           
+1(0, 1)                       (-14.23,160.62)      76.30               5.92                0.12      
+3(0, 3)                       (-12.36,160.52)      160.15              5.67                0.12      
+6(1, 2)                       (-14.00,161.83)      186.18              5.26                0.53      
+
+Balloon seismic reporting time: 2022-10-18 (H) 17, (M) 52, (S) 28
+Balloon seismic reporting Coord: (-13.43,161.16)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 117.62
+Balloon seismic reporting Magnitude: 5.54
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 0.25
+
+Communication Time (seconds): 0.043684004
+Total Messages send between reporting node and base station: 4
+Number of adjacent matches to reporting node: 2
+Coordinate difference threshold (km): 180
+Magnitude difference threshold: 0.50
+Earthquake magnitude threshold: 2.50
+==================================================================
+==================================================================
+
+==================================================================
+Iteration: 19
+Logged time: Tue Oct 18 17:52:30 2022
+Alert reported time: Tue Oct 18 17:52:30 2022
+Alert type: Inconclusive
+
+Reporting Node                Seismic Coord                           Magnitude                                                   
+4(1, 0)                       (-15.87,161.03)                          5.54                                                        
+
+Adjacent Nodes                Seismic Coord       Diff(Coord.km)      Magnitude           Diff(Mag)           
+5(1, 1)                       (-14.48,161.43)      160.05              5.40                0.13      
+0(0, 0)                       (-15.61,160.22)      90.65               6.03                0.49      
+8(2, 0)                       (-15.22,162.73)      196.22              4.97                0.57      
+
+This is an inconclusive alert. Thus, no matched entries with balloon seismic.
+
+Communication Time (seconds): 0.048956040
+Total Messages send between reporting node and base station: 4
+Number of adjacent matches to reporting node: 2
+Coordinate difference threshold (km): 180
+Magnitude difference threshold: 0.50
+Earthquake magnitude threshold: 2.50
+==================================================================
+==================================================================
+
+==================================================================
+Iteration: 19
+Logged time: Tue Oct 18 17:52:30 2022
+Alert reported time: Tue Oct 18 17:52:30 2022
+Alert type: Conclusive
+
+Reporting Node                Seismic Coord                           Magnitude                                                   
+5(1, 1)                       (-14.48,161.43)                          5.40                                                        
+
+Adjacent Nodes                Seismic Coord       Diff(Coord.km)      Magnitude           Diff(Mag)           
+4(1, 0)                       (-15.87,161.03)      160.05              5.54                0.13      
+6(1, 2)                       (-14.00,161.83)      69.20               5.26                0.14      
+1(0, 1)                       (-14.23,160.62)      91.17               5.92                0.51      
+9(2, 1)                       (-14.74,162.23)      91.15               4.81                0.59      
+
+Balloon seismic reporting time: 2022-10-18 (H) 17, (M) 52, (S) 28
+Balloon seismic reporting Coord: (-13.43,161.16)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 120.31
+Balloon seismic reporting Magnitude: 5.54
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 0.14
+
+Communication Time (seconds): 0.048881171
+Total Messages send between reporting node and base station: 4
+Number of adjacent matches to reporting node: 2
+Coordinate difference threshold (km): 180
+Magnitude difference threshold: 0.50
+Earthquake magnitude threshold: 2.50
+==================================================================
+==================================================================
+
+==================================================================
+Iteration: 19
+Logged time: Tue Oct 18 17:52:30 2022
+Alert reported time: Tue Oct 18 17:52:30 2022
+Alert type: Conclusive
+
+Reporting Node                Seismic Coord                           Magnitude                                                   
+6(1, 2)                       (-14.00,161.83)                          5.26                                                        
+
+Adjacent Nodes                Seismic Coord       Diff(Coord.km)      Magnitude           Diff(Mag)           
+5(1, 1)                       (-14.48,161.43)      69.20               5.40                0.14      
+7(1, 3)                       (-12.61,161.33)      163.33              5.12                0.15      
+2(0, 2)                       (-13.74,160.12)      186.18              5.79                0.53      
+10(2, 2)                       (-13.35,162.63)      112.72              4.65                0.61      
+
+Balloon seismic reporting time: 2022-10-18 (H) 17, (M) 52, (S) 28
+Balloon seismic reporting Coord: (-13.43,161.16)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 95.41
+Balloon seismic reporting Magnitude: 5.54
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 0.28
+
+Communication Time (seconds): 0.048690160
+Total Messages send between reporting node and base station: 4
+Number of adjacent matches to reporting node: 2
+Coordinate difference threshold (km): 180
+Magnitude difference threshold: 0.50
+Earthquake magnitude threshold: 2.50
+==================================================================
+==================================================================
+
+==================================================================
+Iteration: 19
+Logged time: Tue Oct 18 17:52:30 2022
+Alert reported time: Tue Oct 18 17:52:30 2022
+Alert type: Conclusive
+
+Reporting Node                Seismic Coord                           Magnitude                                                   
+9(2, 1)                       (-14.74,162.23)                          4.81                                                        
+
+Adjacent Nodes                Seismic Coord       Diff(Coord.km)      Magnitude           Diff(Mag)           
+8(2, 0)                       (-15.22,162.73)      76.09               4.97                0.16      
+10(2, 2)                       (-13.35,162.63)      160.11              4.65                0.16      
+5(1, 1)                       (-14.48,161.43)      91.15               5.40                0.59      
+13(3, 1)                       (-14.99,163.04)      91.04               4.14                0.67      
+
+Balloon seismic reporting time: 2022-10-18 (H) 17, (M) 52, (S) 22
+Balloon seismic reporting Coord: (-14.16,161.69)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 87.01
+Balloon seismic reporting Magnitude: 4.64
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 0.17
+
+Communication Time (seconds): 0.044316650
+Total Messages send between reporting node and base station: 4
+Number of adjacent matches to reporting node: 2
+Coordinate difference threshold (km): 180
+Magnitude difference threshold: 0.50
+Earthquake magnitude threshold: 2.50
+==================================================================
+==================================================================
+
+==================================================================
+Iteration: 19
+Logged time: Tue Oct 18 17:52:30 2022
+Alert reported time: Tue Oct 18 17:52:30 2022
+Alert type: Conclusive
+
+Reporting Node                Seismic Coord                           Magnitude                                                   
+10(2, 2)                       (-13.35,162.63)                          4.65                                                        
+
+Adjacent Nodes                Seismic Coord       Diff(Coord.km)      Magnitude           Diff(Mag)           
+9(2, 1)                       (-14.74,162.23)      160.11              4.81                0.16      
+11(2, 3)                       (-12.87,162.13)      76.44               4.49                0.17      
+6(1, 2)                       (-14.00,161.83)      112.72              5.26                0.61      
+14(3, 2)                       (-13.61,163.44)      91.55               3.96                0.69      
+
+Balloon seismic reporting time: 2022-10-18 (H) 17, (M) 52, (S) 22
+Balloon seismic reporting Coord: (-14.16,161.69)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 135.53
+Balloon seismic reporting Magnitude: 4.64
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 0.01
+
+Communication Time (seconds): 0.054569399
+Total Messages send between reporting node and base station: 4
+Number of adjacent matches to reporting node: 2
+Coordinate difference threshold (km): 180
+Magnitude difference threshold: 0.50
+Earthquake magnitude threshold: 2.50
+==================================================================
+==================================================================
+
+==================================================================
+Iteration: 19
+Logged time: Tue Oct 18 17:52:30 2022
+Alert reported time: Tue Oct 18 17:52:30 2022
+Alert type: Conclusive
+
+Reporting Node                Seismic Coord                           Magnitude                                                   
+13(3, 1)                       (-14.99,163.04)                          4.14                                                        
+
+Adjacent Nodes                Seismic Coord       Diff(Coord.km)      Magnitude           Diff(Mag)           
+12(3, 0)                       (-15.48,163.53)      76.05               4.32                0.18      
+14(3, 2)                       (-13.61,163.44)      160.09              3.96                0.18      
+9(2, 1)                       (-14.74,162.23)      91.04               4.81                0.67      
+
+Balloon seismic reporting time: 2022-10-18 (H) 17, (M) 52, (S) 24
+Balloon seismic reporting Coord: (-14.75,163.74)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 80.10
+Balloon seismic reporting Magnitude: 4.42
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 0.28
+
+Communication Time (seconds): 0.041835768
+Total Messages send between reporting node and base station: 4
+Number of adjacent matches to reporting node: 2
+Coordinate difference threshold (km): 180
+Magnitude difference threshold: 0.50
+Earthquake magnitude threshold: 2.50
+==================================================================
+==================================================================
+
+==================================================================
+Iteration: 19
+Logged time: Tue Oct 18 17:52:30 2022
+Alert reported time: Tue Oct 18 17:52:30 2022
+Alert type: Conclusive
+
+Reporting Node                Seismic Coord                           Magnitude                                                   
+14(3, 2)                       (-13.61,163.44)                          3.96                                                        
+
+Adjacent Nodes                Seismic Coord       Diff(Coord.km)      Magnitude           Diff(Mag)           
+13(3, 1)                       (-14.99,163.04)      160.09              4.14                0.18      
+15(3, 3)                       (-12.22,163.84)      160.16              3.77                0.19      
+10(2, 2)                       (-13.35,162.63)      91.55               4.65                0.69      
+
+Balloon seismic reporting time: 2022-10-18 (H) 17, (M) 52, (S) 21
+Balloon seismic reporting Coord: (-15.05,163.33)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 160.98
+Balloon seismic reporting Magnitude: 3.48
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 0.48
+
+Communication Time (seconds): 0.041229955
+Total Messages send between reporting node and base station: 4
+Number of adjacent matches to reporting node: 2
+Coordinate difference threshold (km): 180
+Magnitude difference threshold: 0.50
+Earthquake magnitude threshold: 2.50
+==================================================================
+==================================================================
+
+==================================================================
+Iteration: 25
+Logged time: Tue Oct 18 17:52:36 2022
+Alert reported time: Tue Oct 18 17:52:36 2022
+Alert type: Conclusive
+
+Reporting Node                Seismic Coord                           Magnitude                                                   
+9(2, 1)                       (-14.46,162.40)                          2.99                                                        
+
+Adjacent Nodes                Seismic Coord       Diff(Coord.km)      Magnitude           Diff(Mag)           
+8(2, 0)                       (-15.24,162.43)      87.27               3.36                0.37      
+10(2, 2)                       (-13.67,162.37)      87.27               3.02                0.03      
+5(1, 1)                       (-14.50,161.53)      94.12               2.31                0.68      
+13(3, 1)                       (-14.42,163.28)      94.14               4.32                1.33      
+
+Balloon seismic reporting time: 2022-10-18 (H) 17, (M) 52, (S) 29
+Balloon seismic reporting Coord: (-14.08,161.30)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 126.44
+Balloon seismic reporting Magnitude: 3.48
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 0.49
+
+Communication Time (seconds): 0.043082611
+Total Messages send between reporting node and base station: 4
+Number of adjacent matches to reporting node: 2
+Coordinate difference threshold (km): 180
+Magnitude difference threshold: 0.50
+Earthquake magnitude threshold: 2.50
+==================================================================
+==================================================================
+
+==================================================================
+Iteration: 25
+Logged time: Tue Oct 18 17:52:36 2022
+Alert reported time: Tue Oct 18 17:52:36 2022
+Alert type: Conclusive
+
+Reporting Node                Seismic Coord                           Magnitude                                                   
+10(2, 2)                       (-13.67,162.37)                          3.02                                                        
+
+Adjacent Nodes                Seismic Coord       Diff(Coord.km)      Magnitude           Diff(Mag)           
+9(2, 1)                       (-14.46,162.40)      87.27               2.99                0.03      
+11(2, 3)                       (-12.89,162.34)      87.22               4.02                1.00      
+6(1, 2)                       (-13.71,161.50)      94.45               3.00                0.02      
+14(3, 2)                       (-13.64,163.24)      94.41               1.20                1.81      
+
+Balloon seismic reporting time: 2022-10-18 (H) 17, (M) 52, (S) 29
+Balloon seismic reporting Coord: (-14.08,161.30)
+Balloon seismic reporting Coord Diff. with Reporting Node (km): 124.50
+Balloon seismic reporting Magnitude: 3.48
+Balloon seismic reporting Magnitude Diff. with Reporting Node (km): 0.47
+
+Communication Time (seconds): 0.047978842
+Total Messages send between reporting node and base station: 4
+Number of adjacent matches to reporting node: 2
+Coordinate difference threshold (km): 180
+Magnitude difference threshold: 0.50
+Earthquake magnitude threshold: 2.50
+==================================================================
+==================================================================
+
+==================================================================
+Iteration: 27
+Logged time: Tue Oct 18 17:52:38 2022
+Alert reported time: Tue Oct 18 17:52:38 2022
+Alert type: Inconclusive
+
+Reporting Node                Seismic Coord                           Magnitude                                                   
+2(0, 2)                       (-13.45,160.19)                          2.66                                                        
+
+Adjacent Nodes                Seismic Coord       Diff(Coord.km)      Magnitude           Diff(Mag)           
+1(0, 1)                       (-14.63,160.67)      141.24              1.94                0.72      
+3(0, 3)                       (-12.27,160.62)      139.39              2.86                0.21      
+6(1, 2)                       (-13.62,161.09)      98.62               2.72                0.06      
+
+This is an inconclusive alert. Thus, no matched entries with balloon seismic.
+
+Communication Time (seconds): 0.052132424
+Total Messages send between reporting node and base station: 4
+Number of adjacent matches to reporting node: 2
+Coordinate difference threshold (km): 180
+Magnitude difference threshold: 0.50
+Earthquake magnitude threshold: 2.50
+==================================================================
+==================================================================
+
